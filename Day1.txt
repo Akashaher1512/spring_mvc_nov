@@ -1,0 +1,32 @@
+
+What is spring-mvc?
+	- MVC - model - view - controller
+	- A spring mvc is sub framework of spring framework which is used to build a web applications.
+	- It is build on top of servlet api
+	- it follows the model veiw controller design pattern
+	- it implements all the basic features of a core spring framework like dependency injecttion
+	
+Why Spring MVC?
+	- Seaperate each role model, view , controller etc.
+	- powerful configuration (XML , Java based , Anotations)
+	- it is subb framework of spring Framework. use of spring core features like IOC 
+	- Rapid Application devlopement after single time configuraton
+	- Spring mvc is flexible easy to replace features 
+	
+
+MVC Design pattern => 
+	- it is way to organize the code in our application
+	- it not only for spring we can use this pattern for any language and any framework 
+	
+	- Model => Data
+	- View => present data to user
+	- Controller => interface between model and view
+	
+
+Problem without model veiw controller design pattern ?
+	- due to centralize loading applicaton perform bad
+
+Working of spring mvc
+	- it work on client server architecure
+	
+
